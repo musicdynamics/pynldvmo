@@ -3,4 +3,4 @@ wheel==0.33.4
 twine==1.13.0
 vmo
 scipy
-numpy==1.16
+numpy==1.22.0
